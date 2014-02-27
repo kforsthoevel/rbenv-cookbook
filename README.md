@@ -1,6 +1,6 @@
 # rbenv cookbook
 
-Installs and manages your versions of Ruby and Gems in Chef with rbenv and ruby_build.
+Installs and manages your versions of Ruby and Gems in Chef with rbenv and ruby_build
 
 * [rbenv](https://github.com/sstephenson/rbenv)
 * [ruby_build](https://github.com/sstephenson/ruby-build)
